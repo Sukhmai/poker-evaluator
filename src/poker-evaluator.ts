@@ -192,4 +192,4 @@ function shuffleDeck (deck: number[]) {
   }
 }
 
-console.log(winningOddsForPlayer(['ah','as'],[],5, 1000))
+//console.log(winningOddsForPlayer(['ah','as'],[],5, 1000))
