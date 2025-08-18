@@ -1,6 +1,6 @@
 {
   "name": "poker-evaluator",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A library to evaluate 3, 5, 6 or 7 card poker hands",
   "main": "lib/poker-evaluator.js",
   "prepublish": "tsc",
